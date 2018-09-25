@@ -174,7 +174,7 @@ class App extends Component {
         :  
         (<div>
           <p className="App-intro">
-            Enter your Spotify access token. Get it from{" "}
+        Sptofy Access Token Here: (Only Premium Account){" "}
             <a href="https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#authenticating-with-spotify">
               here
             </a>.
